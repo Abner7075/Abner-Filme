@@ -8,6 +8,8 @@
 
 * **Nome:** Abner Rocha Ferreira
 * **Turma:** 1IE
+* **Instituição:** SENAI
+* **Curso:** Técnico em Desenvolvimento de Sistemas
 
 ---
 
@@ -54,6 +56,8 @@ KAFKA, Franz. **A Metamorfose**. Publicado originalmente em **1915**.
 
 <div align="center">
 
-**Desenvolvido por Abner Rocha Ferreira – Turma 1IE** ✨
+**Desenvolvido por Abner Rocha Ferreira**
+**SENAI – Curso Técnico em Desenvolvimento de Sistemas**
+**Turma 1IE** ✨
 
 </div>
