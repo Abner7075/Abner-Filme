@@ -26,3 +26,4 @@ A obra é considerada um dos maiores clássicos da literatura mundial. Franz Kaf
 ## Referência
 
 KAFKA, Franz. *A Metamorfose*. Publicado originalmente em 1915.
+Tecnologias utilizadas: chat gpt e google
